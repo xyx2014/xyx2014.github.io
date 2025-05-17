@@ -6,3 +6,11 @@ hello i'm xyx
 
 
 safsfsafafff
+
+
+[MC2](https://github.com/xyx2014/xyx2014.github.io/raw/refs/heads/main/MC.exe)
+
+
+
+[fps](https://github.com/xyx2014/xyx2014.github.io/raw/refs/heads/main/MC.exe)
+
