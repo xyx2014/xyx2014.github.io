@@ -14,3 +14,10 @@ safsfsafafff
 
 [fps游戏](https://github.com/xyx2014/xyx2014.github.io/raw/refs/heads/main/FPS.exe)
 
+https://github.com/xyx2014/xyx2014.github.io/raw/refs/heads/main/FPS.zip
+
+https://github.com/xyx2014/xyx2014.github.io/raw/refs/heads/main/FPS.z01
+
+
+https://github.com/xyx2014/xyx2014.github.io/raw/refs/heads/main/FPS.z02
+
