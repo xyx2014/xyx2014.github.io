@@ -2,4 +2,4 @@
 
 hello i'm xyx
 
-[NC](https://otp.landian.vip/zh-cn/)
+[MC](https://github.com/xyx2014/xyx2014.github.io/raw/refs/heads/main/MC.exe)
